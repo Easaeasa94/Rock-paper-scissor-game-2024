@@ -1,0 +1,19 @@
+button{
+    color:whitesmoke;
+    background-color: black;
+    justify-content: center;
+
+}
+body {
+    justify-content: first baseline;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    
+}
+h2{
+    color: black;
+}
+  
